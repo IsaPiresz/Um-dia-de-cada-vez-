@@ -5,7 +5,7 @@ export default function About() {
     <div className="space-y-8 max-w-2xl mx-auto">
       <div className="text-center">
         <div className="text-5xl mb-4">💙</div>
-        <h1 className="text-3xl font-bold text-foreground">Sobre o RotinaTEA</h1>
+        <h1 className="text-3xl font-bold text-foreground">Sobre o Um Dia De Cada Vez</h1>
         <p className="text-muted-foreground mt-2">
           Promovendo autonomia, organização e inclusão digital.
         </p>
@@ -14,7 +14,7 @@ export default function About() {
       <div className="bg-card rounded-2xl p-6 shadow-sm border space-y-4">
         <h2 className="text-xl font-bold text-foreground">🎯 Nossa Missão</h2>
         <p className="text-muted-foreground leading-relaxed">
-          O RotinaTEA foi desenvolvido com carinho para auxiliar pessoas com Transtorno do
+          O Um Dia De Cada Vez foi desenvolvido com carinho para auxiliar pessoas com Transtorno do
           Espectro Autista (TEA), seus familiares, cuidadores e educadores na organização
           de rotinas diárias de forma acolhedora e acessível.
         </p>
@@ -63,7 +63,7 @@ export default function About() {
         <p className="text-muted-foreground text-sm mb-4">
           Dúvidas, sugestões ou feedback? Entre em contato conosco.
         </p>
-        <p className="text-primary font-medium">contato@rotinatea.com.br</p>
+        <p className="text-primary font-medium">contato@umdiadecadavez.com.br</p>
       </div>
 
       <div className="text-center">

@@ -23,7 +23,7 @@ export default function Layout({ children }: { children: ReactNode }) {
         <div className="container mx-auto px-4 h-14 flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 font-bold text-lg text-primary">
             <span className="text-2xl">💙</span>
-            <span>RotinaTEA</span>
+            <span>Um Dia De Cada Vez</span>
           </Link>
 
           {/* Desktop nav */}
@@ -103,7 +103,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
             <div className="flex items-center gap-2">
               <span className="text-lg">💙</span>
-              <span className="font-semibold">RotinaTEA</span>
+              <span className="font-semibold">Um Dia De Cada Vez</span>
               <span>— Promovendo inclusão e autonomia</span>
             </div>
             <div className="flex gap-4">

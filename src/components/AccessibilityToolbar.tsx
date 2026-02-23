@@ -54,7 +54,7 @@ export default function AccessibilityToolbar() {
         </button>
 
         <button
-          onClick={() => speak('Bem-vindo ao RotinaTEA. Use este aplicativo para gerenciar suas rotinas diárias.')}
+          onClick={() => speak('Bem-vindo ao Um Dia De Cada Vez. Use este aplicativo para gerenciar suas rotinas diárias.')}
           className="px-2 py-1 rounded hover:bg-accent text-muted-foreground font-medium transition-colors"
         >
           🔊 Ler
