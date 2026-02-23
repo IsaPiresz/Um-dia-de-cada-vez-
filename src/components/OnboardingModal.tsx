@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 const STEPS = [
   {
     icon: '💙',
-    title: 'Bem-vindo ao RotinaTEA!',
+    title: 'Bem-vindo ao Um Dia De Cada Vez!',
     description: 'Um aplicativo pensado para ajudar você a organizar sua rotina de forma simples, acolhedora e no seu ritmo.',
   },
   {
